@@ -5,6 +5,5 @@
  * Running on http://127.0.0.1:5070
  * Running on http://192.168.2.14:5070
 [33mPress CTRL+C to quit[0m
-127.0.0.1 - - [05/May/2026 16:52:26] "GET / HTTP/1.1" 200 -
-127.0.0.1 - - [05/May/2026 16:52:47] "GET / HTTP/1.1" 200 -
-127.0.0.1 - - [05/May/2026 16:52:57] "GET /api/simulate HTTP/1.1" 200 -
+127.0.0.1 - - [05/May/2026 16:58:21] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [05/May/2026 16:58:29] "GET /api/simulate HTTP/1.1" 200 -
